@@ -1,5 +1,3 @@
-<!-- Banner Image (Replace with your own image link) -->
-<img src="https://images.app.goo.gl/t5F1CZjYZXSXhGyj8" alt="MasterHead" width="100%" />
 
 # Hi 👋, I'm Sobiya  
 🚀 A passionate **Full-Stack Developer** from Sri Lanka  
