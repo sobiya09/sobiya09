@@ -21,7 +21,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)https://www.linkedin.com/in/sobiya-puvanendrarajah-514366250/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)https://www.linkedin.com/in/sobiya-puvanendrarajah-514366250/]
 
 ---
 
@@ -44,14 +44,4 @@
 
 ---
 
-### 🔥 GitHub Stats  
-![Sobiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
-
-### 🏆 GitHub Trophies  
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&margin-w=15" />  
-</p>  
