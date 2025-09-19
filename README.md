@@ -19,7 +19,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)https://www.linkedin.com/linkedin.com/in/sobiyap/]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)https://www.linkedin.com/in/sobiyap/]
 
 ---
 
